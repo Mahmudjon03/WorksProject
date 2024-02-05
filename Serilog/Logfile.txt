@@ -1,0 +1,5 @@
+2023-12-18 13:14:48.369 +05:00 [INF] Hello, Serilog!
+2023-12-18 13:14:48.390 +05:00 [DBG] Dividing 10 by 0
+2023-12-18 13:14:48.409 +05:00 [ERR] Something went wrong
+System.DivideByZeroException: Попытка деления на нуль.
+   в Program.Main() в C:\Users\hp\Desktop\Work\Serilog\Serilog\Program.cs:строка 19
